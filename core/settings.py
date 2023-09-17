@@ -31,6 +31,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     #al instalar el nucleo le permitimos aceder a todos los archivos de core
     'core',
+    'blog',
 ]
 
 MIDDLEWARE = [
